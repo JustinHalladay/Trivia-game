@@ -33,42 +33,42 @@ var questions = [{
     question: "What was the name of the lead singer of the band \"the Gorilla Biscuits\"?",
     answers: ["Civ", "Chuck", "Alan", "Cinderblock"],
     correctAnswer: "Civ",
-    image: "///Users/justinhalladay/Desktop/Homework/triviagame/assets/images/gorillabiscuits.jpg"
+    image: "assets/images/gorillabiscuits.jpg"
 }, {
     question: "What band gave \"Rod Stewart\" his start?",
     answers: ["Small Faces", "The Faces", "They Guess Who", "The Who"],
     correctAnswer: "The Faces",
-    image: "///Users/justinhalladay/Desktop/Homework/triviagame/assets/images/thefaces.jpg"
+    image: "assets/images/thefaces.jpg"
 }, {
     question: "What popular Hip Hop group was once a punk rock band?",
     answers: ["Gang Starr", "Heiroglyphics", "Beastie Boys", "Wu Tang Clan"],
     correctAnswer: "Beastie Boys",
-        image: "///Users/justinhalladay/Desktop/Homework/triviagame/assets/images/beastieboys.jpg"
+        image: "assets/images/beastieboys.jpg"
 }, {
     question: "What band tipified the \"Two Tone\" era and had a number one hit in the UK with \"Too Much Too Young\"?",
     answers: ["The Specials", "English Beat", "004", "No Doubt"],
     correctAnswer: "The Specials",
-    image: "///Users/justinhalladay/Desktop/Homework/triviagame/assets/images/thespecials.jpg"
+    image: "assets/images/thespecials.jpg"
 }, {
     question: "What band has a documentary called \"The Godfathers of Hardcore\" coming out in 2018?",
     answers: ["Black Flag", "Circle Jerks", "Trial", "Agnostic Front"],
     correctAnswer: "Agnostic Front",
-    image: "///Users/justinhalladay/Desktop/Homework/triviagame/assets/images/af.jpg"
+    image: "assets/images/af.jpg"
 }, {
     question: "Often considered the \"first\" punk band, this band was formed in a shop called \"Sex\"?",
     answers: ["Sex Pistols", "The Clash", "The Buzzcocks", "Cock Sparer"],
     correctAnswer: "Sex Pistols",
-    image: "///Users/justinhalladay/Desktop/Homework/triviagame/assets/images/sexpistols.png"
+    image: "assets/images/sexpistols.png"
 }, {
     question: "Finish the song lyric, \"...do the dog, not the \"\"",
     answers: ["Banana", "Old Man", "Donkey", "Monkey"],
     correctAnswer: "Monkey",
-    image: "///Users/justinhalladay/Desktop/Homework/triviagame/assets/images/monkey.jpg"
+    image: "assets/images/monkey.jpg"
 }, {
     question: "Who is the greatest \"Southern Rock\" band of all time?",
     answers: ["Michael Bubble", "Michael Jackson", "The Doors", "Lynyrd Skynyrd"],
     correctAnswer: "Lynyrd Skynyrd",
-    image: "///Users/justinhalladay/Desktop/Homework/triviagame/assets/images/lynyrdskynyrd.jpg"
+    image: "assets/images/lynyrdskynyrd.jpg"
 }];
 
 

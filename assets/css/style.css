@@ -1,6 +1,6 @@
 
 .background {
-    background-image: url("///Users/justinhalladay/Desktop/Homework/triviagame/assets/images/background.jpg"); 
+    background-image: url("../../assets/images/background.jpg"); 
     height: 100vh; 
     position: absolute;
     top: 0;
