@@ -1,0 +1,37 @@
+
+.background {
+    background-image: url("///Users/justinhalladay/Desktop/Homework/triviagame/assets/images/background.jpg"); 
+    height: 100vh; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    z-index: -1;
+    opacity: .5;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ #start {
+    text-align: center; 
+    color: magenta; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px; 
+    height: 200px;
+    font-size: 35px;
+    font-family: Chalkduster, fantasy;
+    background-color: bisque;
+ }
+ #button {
+     background-color: rgb(57, 235, 110);
+     margin: 10px;
+     justify-content: center;
+     align-items: center; 
+     display: flex;
+ }
+ #wrapper {
+     box-sizing: border-box;
+     color: rgb(180, 25, 223);
+ }
+
